@@ -1,4 +1,4 @@
--# Saludos: 
+# Saludos: 
 
 ### introducción:
   Soy una persona del norte de México, donde estudie la ingenieria en electrónica y automatización, posteriormente me incline a la docencia obteniendo mi Maestria en Ciencias de la educación y logrado amalgamar ambas carreras.
